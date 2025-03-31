@@ -123,6 +123,7 @@ The Coinbase Support team is responsible for:
 2. Resolving issues with accounts, transactions, and payments.
 3. Providing guidance on security, verification, and compliance.
 4. Assisting with technical problems, such as login or connectivity issues.
+
 You can typically contact Coinbase
 Support through here.</p>
           </div>
